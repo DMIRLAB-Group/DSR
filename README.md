@@ -1,5 +1,3 @@
-#DSR
-
 source code of 'Learning Disentangled Semantic Representation for Domain Adaptation'
 
 enviroment:
