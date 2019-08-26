@@ -1,4 +1,4 @@
-source code of 'Learning Disentangled Semantic Representation for Domain Adaptation'
+# Source code of 'Learning Disentangled Semantic Representation for Domain Adaptation'
 
 enviroment:
 python 2.7  
